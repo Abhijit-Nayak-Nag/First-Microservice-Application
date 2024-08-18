@@ -1,0 +1,25 @@
+INDEX VERSION 1.131+C:\2023\Java Online - 12 - 6.30AM\Java Programs\Microservices\.metadata\.plugins\org.eclipse.jdt.core
+3066948313.index
+3035467663.index
+4012444048.index
+1396310791.index
+1693494511.index
+1266823012.index
+1065910409.index
+4210494266.index
+1354959185.index
+312163806.index
+2145786429.index
+3060438735.index
+3481196651.index
+1370759461.index
+480723352.index
+1816364658.index
+4009363202.index
+2266656309.index
+585115892.index
+3308235623.index
+537057963.index
+1865797976.index
+3789685237.index
+3241704920.index
